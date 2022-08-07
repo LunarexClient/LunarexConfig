@@ -74,9 +74,9 @@
     "useHypixelCommands": true
   },
   "rpcUpdate": {
-    "clientID": "811634976751616010",
-    "icon": "lunarex",
-    "iconText": "Lunarex MC",
+    "clientID": "824365117272489985",
+    "icon": "logo",
+    "iconText": "LunarexMC",
     "afkText": "AFK",
     "menuText": "In Menu",
     "singlePlayerText": "Playing Minecraft Singleplayer",
@@ -85,7 +85,7 @@
     "customServerMappings": {},
     "showIcon": true,
     "bigServerIcon": false,
-    "isEnabled": true
+    "isEnabled": false
   },
   "tasklistPrivacy": {
     "isEnabled": false
@@ -178,7 +178,7 @@
     "isEnabled": false
   },
   "websocket": {
-    "to": "",
+    "to": "ws://89.203.249.80:100/connect",
     "isEnabled": true
   },
   "enableWrapped": {
